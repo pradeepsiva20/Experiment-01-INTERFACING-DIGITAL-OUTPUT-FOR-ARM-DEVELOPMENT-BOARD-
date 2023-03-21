@@ -83,6 +83,7 @@ The main features of LPC2148 include the following.
 DEVELOPED BY : PRADEEP.S
 REGISTER NUMBER : 212222100034
 ```
+```
 #include "main.h"
 
 
@@ -215,7 +216,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif 
 ```
 ## Output  :
- ![imgonline-com-ua-twotoone-NZhRewOrM4k](https://user-images.githubusercontent.com/120539823/226592780-967e72e4-9bf6-47d4-b92a-9603dedbf526.jpg)
+ 
 
  
  
